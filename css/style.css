@@ -55,7 +55,7 @@
 .sectionTwo{
     text-align: center;
     padding: 10px;
-    background-image: linear-gradient(pink, purple);
+    background-image: linear-gradient(purple, pink);
 }
 
 .sectionTwo h1{
