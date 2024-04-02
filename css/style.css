@@ -7,7 +7,6 @@
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-    background-image: linear-gradient(pink, purple);
 }
 
 .sectionOne{
@@ -16,6 +15,7 @@
     align-items: center;
     padding: 50px;
     height: 100vh;
+    background-image: linear-gradient(pink, purple);
 }
 
 .info{
@@ -55,6 +55,7 @@
 .sectionTwo{
     text-align: center;
     padding: 10px;
+    background-image: linear-gradient(pink, purple);
 }
 
 .sectionTwo h1{
